@@ -4,7 +4,7 @@ velocidad y presicion, y el Guerrero tiene rabia.
 En el output se te dara toda la informacion de tu personaje asiganada de manera aleatoria con la cual empezaras y tambien se te daran unos items en tu inventario
 
 ## EJEMPLO DE SINTAXIS
-PERSONAJE
-NOMBRE: alberto
-CLASE: Guerrero
+PERSONAJE\n
+NOMBRE: alberto\n
+CLASE: Guerrero\n
 
