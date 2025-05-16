@@ -21,7 +21,7 @@ VIDA=100
 INTELIGENCIA=2  
 RABIA=3  
 VIDA=100  
-INVENTARIO=Espada-Escudo-Pocion De Vida  
+INVENTARIO=Espada-Escudo-Pocion De Vida      
 ##CODIGO COMPLETO  
 ´´´python
 import random
@@ -200,6 +200,6 @@ token = Tokens(r"input.txt")
 token.Clasificacion()
 token.Show_Info()
 token.Output()
-
+```
 ```md
 📄 Ver el código completo: [compilador.py](./compliador parra/archivo.py)
