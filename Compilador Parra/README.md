@@ -23,7 +23,7 @@ INTELIGENCIA=2
 RABIA=3  
 VIDA=100  
 INVENTARIO=Espada-Escudo-Pocion De Vida      
-##CODIGO COMPLETO  
-📄[Ver compilador.py](./compilador.py)
+# CODIGO COMPLETO  
+📄**CODIGO:**[Ver compilador.py](./compilador.py)
 
 
