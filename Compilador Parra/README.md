@@ -8,3 +8,13 @@ PERSONAJE
 NOMBRE: alberto  
 CLASE: Guerrero  
 
+## EJEMPLO DE OUTPUT
+PERSONAJE  
+NOMBRE= alberto  
+CLASE=GUERRERO  
+VIDA=100  
+INTELIGENCIA=2  
+RABIA=3  
+VIDA=100  
+INVENTARIO=Espada-Escudo-Pocion De Vida  
+
