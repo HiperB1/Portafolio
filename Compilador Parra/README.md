@@ -23,4 +23,4 @@ INVENTARIO=Espada-Escudo-Pocion De Vida
 
 
 ```md
-📄 Ver el código completo: [compilador.py](compilador.py)
+📄 Ver el código completo: [compilador.py](./src/archivo.py)
