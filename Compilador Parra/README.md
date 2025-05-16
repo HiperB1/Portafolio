@@ -21,3 +21,6 @@ RABIA=3
 VIDA=100  
 INVENTARIO=Espada-Escudo-Pocion De Vida  
 
+
+```md
+📄 Ver el código completo: [archivo.py](compilador.py)
