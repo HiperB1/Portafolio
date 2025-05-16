@@ -5,7 +5,7 @@ velocidad y presicion, y el Guerrero tiene rabia.**
 - [x] Analisis Lexico  
 - [x] Analisis Sintactico  
 - [x] Analisis Semantico  
-- [ ]  ![Python](https://img.shields.io/badge/python-3.11-blue)     
+![Python](https://img.shields.io/badge/python-3.11-blue)     
 ## EJEMPLO DE SINTAXIS
 PERSONAJE  
 NOMBRE: alberto  
