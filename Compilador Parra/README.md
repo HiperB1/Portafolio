@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PROYECTO+COMPILADOR+" alt="Typing SVG" /></a>
+
 # INSTRUCCIONES DE USO
 **En el archivo input.txt se ingresa el nombre y la clase de tu personajes el programa solo admite 3 clases Guerrero,Mago y Arquero las cuales tienen cualidades unicas tales como el mago tiene mana, el Arquero tiene
 velocidad y presicion, y el Guerrero tiene rabia.**
