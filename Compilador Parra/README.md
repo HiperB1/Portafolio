@@ -6,8 +6,9 @@ velocidad y presicion, y el Guerrero tiene rabia.**
 **En el output se te dara toda la informacion de tu personaje asiganada de manera aleatoria con la cual empezaras y tambien se te daran unos items en tu inventario**
 - [x] Analisis Lexico  
 - [x] Analisis Sintactico  
-- [x] Analisis Semantico  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    
+- [x] Analisis Semantico
+## HERRAMIENTAS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ## EJEMPLO DE SINTAXIS
 PERSONAJE  
 NOMBRE: alberto  
