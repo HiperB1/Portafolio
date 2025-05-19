@@ -13,7 +13,7 @@ flowchart TD
     E --> Si --> F[Analisis Semantico]
     E --> No --> G[Error]
     F --> I{¿Los Tokens Tienen Sentido?}
-    F --> Si --> I[Output]
+    F --> Si --> P[Output]
     F --> No --> K[Error]
 
 ```
