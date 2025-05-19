@@ -10,11 +10,12 @@ flowchart TD
     B --> C[Tokens]
     C --> D[Analisis Sintactico]
     D --> E{¿Cumple Con la sintaxis?}
-    E --> Si --> F[Analisis Semantico]
-    E --> No --> G[Error]
-    F --> I{¿Los Tokens Tienen Sentido?}
-    F --> Si --> P[Output]
-    F --> No --> K[Error]
+    E --> |Si| F[Analisis Semantico]
+    E --> |No| G[Reporte De Error]
+    F --> H{¿Los Tokens Tienen Sentido?}
+    H --> |Si| I((Output))
+    H --> |No| J[Reporte De Error]
+
 
 ```
 ## HERRAMIENTAS
