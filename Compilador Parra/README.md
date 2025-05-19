@@ -14,7 +14,7 @@ flowchart TD
     E --> No --> G[Error]
     F --> I{¿Los Tokens Tienen Sentido?}
     F --> Si --> I[Output]
-    f --> No --> K[Error]
+    F --> No --> K[Error]
 
 ```
 ## HERRAMIENTAS
